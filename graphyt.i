@@ -1,0 +1,13 @@
+%module graphyt
+%include "std_vector.i"
+%include "std_string.i"
+%template(vectori) std::vector<int>;
+%template(vectord) std::vector<double>;
+%include Solver.i
+%include Parameters.i
+%include Nodes.i
+%include MaterialPoints.i
+%include MaterialModels.i
+%include BoundaryConditions.i
+%include eig3.i
+%include Matrix.i

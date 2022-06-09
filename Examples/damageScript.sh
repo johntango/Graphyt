@@ -1,0 +1,8 @@
+#!/bin/bash
+
+python3 singleFlawTest_rounded_0Deg_wRigid.py
+python3 singleFlawTest_rounded_30Deg_wRigid.py
+python3 singleFlawTest_rounded_60Deg_wRigid.py
+python3 singleFlawTest_rounded_45Deg_wRigid.py
+python3 singleFlawTest_rounded_75Deg_wRigid.py
+

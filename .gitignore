@@ -1,0 +1,25 @@
+# Compiled binary
+pbld/
+.vscode/
+CMakeFiles/
+build/
+build_k3/
+build_k4/
+build_k5/
+build_k6
+build-js/
+build-win/
+cmake_install.cmake
+Makefile
+CMakeCache.txt
+*.pyc
+graphyt_cpp
+*.a
+*.cxx
+*.*~
+*.csv
+*.so
+*.vti
+*.vtp
+*.stl
+*.STL
